@@ -2,8 +2,7 @@
 Program For :-  wait & notifyAll Demo using moving balls
 
                  SangeetaJ
-                Seed Infotech Ltd.
-                (C) For Demo only
+                Mphasis Ltd
 
 ******************************************************************** */
 
